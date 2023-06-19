@@ -4,10 +4,10 @@
 num = int(input('Enter a number : '))
 
 if (num % 2) == 0:
-           print ('The {num} is even.')
+           print (f'The {num} is even.')
 
 else:
-           print ('The provided {num} is odd.')
+           print (f'The provided {num} is odd.')
 
 
 
